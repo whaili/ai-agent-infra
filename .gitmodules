@@ -1,0 +1,3 @@
+[submodule "repo/e2b/infra"]
+	path = repo/e2b/infra
+	url = git@github.com:whaili/infra.git
