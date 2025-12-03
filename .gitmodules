@@ -1,3 +1,6 @@
 [submodule "repo/e2b/infra"]
 	path = repo/e2b/infra
 	url = git@github.com:whaili/infra.git
+[submodule "repo/agent-sandbox"]
+	path = repo/agent-sandbox
+	url = https://github.com/whaili/agent-sandbox
